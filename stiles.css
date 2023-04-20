@@ -1,0 +1,18 @@
+.box-img{
+    object-fit: cover;
+    height: 250px;
+}
+
+.img-carrucel{
+    width: 100px;
+    height: 100px;
+}
+
+.img-carrucel img{
+    object-fit: cover;
+}
+
+.parrafo-modal{
+    text-align: justify;
+    
+}
